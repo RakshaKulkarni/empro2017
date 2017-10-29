@@ -5,7 +5,3 @@ C Code for DHT22
 https://github.com/technion/lol_dht22/blob/master/dht22.c
 
 
-
-
-Error link for C code
-https://stackoverflow.com/questions/29262257/raspberry-pi-humidity-sensor-undefined-reference-pinmode-among-others
