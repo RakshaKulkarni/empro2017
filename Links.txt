@@ -4,4 +4,9 @@ https://www.youtube.com/watch?v=kZsDFNwhe0c
 C Code for DHT22
 https://github.com/technion/lol_dht22/blob/master/dht22.c
 
+<<<<<<< HEAD
 
+=======
+read sensor code:
+http://www.uugear.com/portfolio/read-dht1122-temperature-humidity-sensor-from-raspberry-pi/
+>>>>>>> 98bec93fd986a85883b91a33b9ac098de6106098
